@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import SearchBar from "./components/searchBar";
+import SearchBar from "./components/SearchBar";
 import BookCard from "./components/bookCard";
 import Pagination from "./components/pagination";
 import "./App.css";
